@@ -10,5 +10,5 @@ ________________________________________________________________________________
 *GCP Configuration Review*  <br>    https://mm.tt/map/2825418627?t=ABQwsFPGyx
 
 ____________________________________________________________________________________
-*Testing 2FA*  <br>   https://i.ibb.co/HHvD4N5/Testing-2-FA.jpg
+*Testing 2FA*  <br>   https://i.ibb.co/HHvD4N5/Testing-2-FA.jpg <br> https://i.ibb.co/1KsFRc5/2-FA-Bypass-Techniques.png
 ____________________________________________________________________________________
